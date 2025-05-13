@@ -42,7 +42,7 @@ Axios se carga mediante CDN, así que no necesitas instalar dependencias ni usar
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-
+```
 ##🧠 Aprende más
 Este proyecto es ideal si estás aprendiendo a:
 -Trabajar con APIs REST.
